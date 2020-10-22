@@ -3,15 +3,4 @@
   <groupId>sryab.engtrainserver</groupId>
   <artifactId>http-server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
-  <dependencies>
-  	<dependency>
-  		<groupId>org.hibernate</groupId>
-   		<artifactId>hibernate-core</artifactId>
-   		<version>5.4.22.Final</version>
-  	</dependency>
-  </dependencies>
-  
-  
-  
 </project>
